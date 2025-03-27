@@ -71,9 +71,3 @@
 ## Django Shell
 
 - Shell `python manage.py shell`
-
-## Params
-
-
-
-
